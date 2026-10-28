@@ -13,7 +13,7 @@ Il progetto:
 Richiede Python 3.10 o superiore.
 
 ```bash
-git clone https://github.com/<utente>/dunkest-nba.git
+git clone https://github.com/alefilippi2003/dunkest-nba.git
 cd dunkest-nba
 python3 -m venv .venv
 source .venv/bin/activate
@@ -168,3 +168,7 @@ pytest
 ## Note
 
 Progetto personale non affiliato a NBA o Dunkest. I dati provengono da endpoint pubblici di nba.com: lo script fa poche richieste, con pause tra l'una e l'altra.
+
+## Licenza
+
+MIT
